@@ -1,8 +1,3 @@
-# Scala101
-Learning Repo for Scala
-
-# Common SBT command
-
 # SBT
 * install deps: `sbt compile`
 * run locally: `sbt run`
@@ -13,3 +8,4 @@ Learning Repo for Scala
 `java -jar Scala\ Learning-assembly-0.1.0-SNAPSHOT.jar`
 
 ```
+
